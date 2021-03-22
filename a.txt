@@ -1,1 +1,1 @@
-make git great
+make dev  great again
